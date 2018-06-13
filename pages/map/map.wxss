@@ -1,0 +1,6 @@
+/* pages/map/map.wxss */
+map {
+  width: 750rpm;
+  height: 1750rpm;
+  border: 1px solid #000;
+}

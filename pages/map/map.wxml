@@ -1,0 +1,3 @@
+<view>
+  <map longitude='北京精度' latitude='北京纬度'></map>
+</view>
